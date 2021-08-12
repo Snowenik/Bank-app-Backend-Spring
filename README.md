@@ -16,5 +16,5 @@
 - Konfiguracja MySQL znajduje się w /src/main/resources/application.properties
 - Username dla bazy danych jest ustawiony jako `root`, bez hasla
 - Należy utworzyć bazę danych o nazwie `first`
-- Po konfiguracji, aby uruchomic aplikację należy przejść do jej głównego katalogu i wpisać w terminalu `./mvnw spring-boot:run`
+- Po konfiguracji, aby uruchomic aplikację należy przejść do jej głównego katalogu i wpisać w terminalu `mvnw spring-boot:run`
 
