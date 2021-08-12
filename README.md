@@ -12,7 +12,7 @@
 
 ## Konfiguracja i uruchomienie
 
-- API działa na localhost:8080/api
+- API działa na `localhost:8080/api`
 - Konfiguracja MySQL znajduje się w /src/main/resources/application.properties
 - Username dla bazy danych jest ustawiony jako `root`, bez hasla
 - Należy utworzyć bazę danych o nazwie `first`
